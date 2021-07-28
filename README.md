@@ -7,4 +7,4 @@
 **How does it look?**
 
 You can swipe right or left.
-![Capture](https://user-images.githubusercontent.com/44326790/127402890-9013e6f7-ea5f-4ddc-af20-e74871e18c88.PNG)
+![Capture](https://user-images.githubusercontent.com/44326790/127407032-57d5fb1d-0068-4421-9cf3-356a367ab855.PNG)
