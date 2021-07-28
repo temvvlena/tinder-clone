@@ -2,7 +2,7 @@
 
 **Utilized**: ReactJS, CSS, HTML, Firebase (Backend)
 
-**Deployed on**: [Click Here](https://tinder-clone-2cd4f.web.app/).
+**Deployed on Firebase**: [Click Here](https://tinder-clone-2cd4f.web.app/).
 
 **How does it look?**
 
