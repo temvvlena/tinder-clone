@@ -13,7 +13,7 @@ const App = () => {
         <Switch>
           <Route path="/chats">
             <Header backButton="/" />
-            <h1>I am chatpage</h1>
+            <h1>Router ✔️</h1>
           </Route>
           <Route path="/">
             <Header /> 
